@@ -1,0 +1,16 @@
+# Ignore all files except the specific notebook
+*
+
+# But don't ignore the notebook file
+!LSTM_V4_Ensemble_latest.ipynb
+
+# Don't ignore .gitignore itself
+!.gitignore
+
+# Ignore temporary files
+*.tmp
+~$*
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
