@@ -230,8 +230,7 @@ If you use this code or methodology in your research, please cite:
 @mastersthesis{farvaresh2025,
   title={Intelligent Decision Support System for Drug Inventory Management: A Robust Ensemble Approach in Small Data Regimes},
   author={Farvaresh, Mokhtar},
-  year={2025},
-  school={[Your University Name]}
+  year={2025}
 }
 ```
 
