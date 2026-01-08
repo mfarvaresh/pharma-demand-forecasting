@@ -7,6 +7,10 @@
 # Don't ignore .gitignore itself
 !.gitignore
 
+# Don't ignore documentation and requirements
+!README.md
+!requirements.txt
+
 # Ignore temporary files
 *.tmp
 ~$*
